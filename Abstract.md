@@ -1,0 +1,8 @@
+                                                                       Abstract
+                                                                       ## Abstract
+
+Urban drainage systems often face blockages due to the accumulation of solid waste, leading to waterlogging, pollution, and public health hazards. Traditional drainage cleaning methods rely on manual labour, which is time-consuming, inefficient, and exposes workers to unsafe conditions. To overcome these challenges, this project presents an IoT-based Drainage Monitoring System that automates the detection and removal of waste from drainage channels.
+
+The system uses an ESP8266 microcontroller, ultrasonic sensors, an L298N motor driver, a DC motor, and a conveyor belt mechanism. The ultrasonic sensor continuously monitors water levels and detects waste accumulation inside the drainage. When the waste exceeds a predefined threshold, the ESP8266 processes the sensor data and activates the conveyor belt through the motor driver to remove the accumulated debris and transfer it to a collection unit. The ESP8266 also enables real-time monitoring by transmitting drainage data over Wi-Fi, allowing authorities to remotely monitor drainage conditions and respond promptly to blockages.
+
+The proposed system reduces manual intervention, improves operational efficiency, minimizes the risk of urban flooding, and enhances public safety. By integrating IoT technology with an automated waste removal mechanism, the Drainage Monitoring System provides a smart, cost-effective, and scalable solution for efficient urban drainage maintenance and environmental sustainability.
