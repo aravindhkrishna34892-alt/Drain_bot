@@ -1,5 +1,3 @@
-#include "arduino_secrets.h"
-
 #define TRIG_PIN 9     // Trigger pin of ultrasonic sensor
 #define ECHO_PIN 10    // Echo pin of ultrasonic sensor
 #define BUZZER_PIN 8   // Pin connected to the buzzer
